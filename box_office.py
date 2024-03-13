@@ -6,7 +6,7 @@ ticket_names = ["Standard Ticket", "VIP Ticket"]
 ticket_prices = [35, 60]
 
 drink_names = ["Wine Package", "Champagne Package"]
-drink_prices = [25, 30]
+drink_prices = [30, 35]
 
 # Create a list to build the customer's cart
 cart_items = []
