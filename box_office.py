@@ -3,7 +3,7 @@
 
 # Assign menu items and prices to lists for tickets and drinks
 ticket_names = ["Standard Ticket", "VIP Ticket"]
-ticket_prices = [25, 50]
+ticket_prices = [35, 60]
 
 drink_names = ["Wine Package", "Champagne Package"]
 drink_prices = [25, 30]
